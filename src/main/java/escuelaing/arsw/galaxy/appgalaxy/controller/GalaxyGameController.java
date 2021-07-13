@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 import escuelaing.arsw.galaxy.appgalaxy.repository.IUsuarioRepo;
 import escuelaing.arsw.galaxy.appgalaxy.model.Usuario;
 
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "http://back-proyecto.herokuapp.com/")
 @RestController
 @RequestMapping("/galaxy")
 public class GalaxyGameController {
