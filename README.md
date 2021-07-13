@@ -4,7 +4,7 @@
 ## Despliegue Heroku
 
 
-[![Heroku](https://www.herokucdn.com/deploy/button.png)](https://back-galaxy.herokuapp.com/)
+[![Heroku](https://www.herokucdn.com/deploy/button.png)](https://back-proyecto.herokuapp.com/)
 
 
 ## Circleci
